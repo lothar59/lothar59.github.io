@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://lothar59.github.io/atom.xml" rel="self"/>
   <link href="http://lothar59.github.io/"/>
-  <updated>2016-02-24T01:20:29+01:00</updated>
+  <updated>2016-02-24T01:30:37+01:00</updated>
   <id>http://lothar59.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello Blog Bundle Exec Rake Deploy]]></title>
-    <link href="http://lothar59.github.io/blog/2016/02/24/hello-blog-bundle-exec-rake-deploy/"/>
+    <link href="http://lothar59.github.io/blog/2016/02/24/hello-blog/"/>
     <updated>2016-02-24T01:10:42+01:00</updated>
-    <id>http://lothar59.github.io/blog/2016/02/24/hello-blog-bundle-exec-rake-deploy</id>
+    <id>http://lothar59.github.io/blog/2016/02/24/hello-blog</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
